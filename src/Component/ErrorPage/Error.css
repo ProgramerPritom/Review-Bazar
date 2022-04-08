@@ -1,0 +1,23 @@
+.error-link{
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+}
+.error-link:hover{
+    color: white;
+}
+.return-home{
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.opp-cls{
+    color: rgb(219, 46, 46);
+    font-weight: 700;
+    font-size: 45px;
+}
+.error img{
+    margin: 20px;
+}
+
