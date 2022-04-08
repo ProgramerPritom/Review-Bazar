@@ -1,0 +1,19 @@
+/* .cards-area{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+} */
+
+.img-area-card{
+    display: flex !important;
+    width: 30% !important;
+    justify-content: center !important;
+    position: relative;
+    top: 20px;
+    left: 115px;
+
+}
+.card-img-area{
+    border-radius: 50% !important;
+    display: flex !important;
+    justify-content: center !important;
+}

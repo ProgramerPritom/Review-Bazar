@@ -1,0 +1,32 @@
+[
+    {"id" : 6, "name" : "Jerry D. Johnson",
+        "img" : "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "text" : "We've shot and examined our studio scene, and its images are a match for the OM System OM-1 in a lot of circumstances. Digging into the shadows shows there's a dynamic range cost at low ISO for this clever, fast sensor.",
+        "ratting" : 4.7
+    },
+    {"id" : 5, "name" : "Bradley V. Crisp",
+        "img" : "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzd8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "text" : "The Panasonic GH6 is clearly the best Micro Four Thirds camera for video shooters, but how does it compare to the full frame S1H? The results may surprise you.",
+        "ratting" : 4.3
+    },
+    { "id" : 4, "name" : "Robert P. Arevalo",
+        "img" : "https://images.unsplash.com/photo-1540569014015-19a7be504e3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzB8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "text" : "Laowa has just announced a new 20mm shift lens, and we were able to put it through its paces in downtown Calgary.",
+        "ratting" : 4.0
+    },
+    { "id" : 3, "name" : "Diane D. Solis", "img" : "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGVyc29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "text" : "The new Sony 16-35mm F4 PZ is obviously an interesting choice for video work, but we think it's a solid choice for photographers as well.",
+    "ratting" : 4.2
+    
+    },
+    {"id" : 2, "name" : "Peter C. Emerson" , "img" : "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTd8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "text" : "High resolution, weather-sealed bodies and wide dynamic range are all important. In this buying guide we've rounded-up several great cameras for shooting landscapes, and recommended the best.",
+    "ratting" : 4.5
+    },
+    { "id" : 1, "name" : "Chris S. Elliott","img": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "text" : "Most modern cameras will shoot video to one degree or another, but these are the ones we'd look at if you plan to shoot some video alongside your photos. We've chosen cameras that can take great photos and make it easy to get great looking video, rather than being the ones you'd choose as a committed videographer",
+    "ratting" : 4.9
+    
+    }
+
+]
