@@ -1,9 +1,11 @@
 import React from 'react';
+import useData from '../Hooks/useData';
 
 const Dashboard = () => {
+    const [data,setData] = useData([])
     return (
         <div>
-            <h2>This is Dashboard page!</h2>
+            
         </div>
     );
 };
