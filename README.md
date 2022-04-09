@@ -1,7 +1,7 @@
 # Live site link 
 
 ## Github link :
-This project was bootstrapped with [Review Bazar](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Review Bazar](https://github.com/programming-hero-web-course-4/product-analysis-website-ProgramerPritom).
 
 ## Project Include 
 - Route define using Navbar

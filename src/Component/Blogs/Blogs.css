@@ -1,0 +1,14 @@
+.Context-api,.inline-block-area{
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid tomato;
+    border-radius: 15px;
+}
+.Context-api h2,.inline-block-area h2{
+    border-bottom: 2px solid gray;
+}
+.inline-block-area span{
+    border-bottom: 2px solid black;
+    font-size: 22px;
+    font-weight: 600;
+}
