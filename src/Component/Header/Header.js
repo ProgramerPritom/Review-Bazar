@@ -9,7 +9,7 @@ const Header = () => {
         <div className="navbar-class">
         <Navbar bg="light" expand="lg">
         <Container>
-    <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+    <Navbar.Brand href="/">Review Bazar</Navbar.Brand>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="ms-auto">

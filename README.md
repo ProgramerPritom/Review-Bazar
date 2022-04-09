@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Live site link 
+
+## Github link :
+This project was bootstrapped with [Review Bazar](https://github.com/facebook/create-react-app).
+
+## Project Include 
+- Route define using Navbar
+- Create Reviews using API
+- Create Dashboard using Re-charts
+- Create Blog page and define Question and Answer
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +80,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
