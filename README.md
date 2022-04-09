@@ -2,7 +2,7 @@
 
 
 # Live site link 
-This project Live demo Link here to click [Review Bazar](https://venerable-tulumba-7e7629.netlify.app/reviews).
+This project Live demo Link here to click [Review Bazar](https://venerable-tulumba-7e7629.netlify.app/).
 
 ## Github link :
 This project github Link here to click [Review Bazar](https://github.com/programming-hero-web-course-4/product-analysis-website-ProgramerPritom).
